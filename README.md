@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🌐 _[[http://localhost:3000/]]_  
+🌐 _[[http://localhost:3000/](http://localhost:3000/)]_  
 
 ---
 
@@ -45,25 +45,8 @@
 
 ---
 ## ⚙️ Installation & Setup
-This guide will help you set up the **Task Mate** app's backend and frontend on your local machine.
 
 ### 1. Clone the Repository
 git clone https://github.com/parbezalam590/TaskMate
-cd task-mate
+cd TaskMate
 
-### 2.🛠️ Backend Setup
-
-1. Open the first terminal and navigate to the **backend** directory:
-    cd backend
-2. Start the backend server:
-    node server.js
-   - Make sure **MongoDB** is running locally or, if you're using **MongoDB Atlas**, replace the MongoDB URI in `server.js` with your **Atlas URI**.
-
-### 3.💻 Frontend Setup
-
-1. Open the second terminal and navigate to the **frontend** directory:
-    cd frontend
-
-2. Start the frontend development server:
-    npm run dev
-    - This will run the frontend on [http://localhost:3000](http://localhost:3000).
