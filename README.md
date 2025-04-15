@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🌐 _[[Add link here if hosted](http://localhost:3000/)]_  
+🌐 _[[http://localhost:3000/]]_  
 
 ---
 
@@ -14,7 +14,7 @@
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light](.assets/light-mode.png) | ![Dark](./assets/dark-mode.png) |
+| ![Light](./assets/light-mode.png) | ![Dark](./assets/dark-mode.png) |
 
 ---
 
@@ -48,7 +48,7 @@
 This guide will help you set up the **Task Mate** app's backend and frontend on your local machine.
 
 ### 1. Clone the Repository
-git clone https://github.com/parbezalam590/task-mate.git
+git clone https://github.com/parbezalam590/TaskMate
 cd task-mate
 
 ### 2.🛠️ Backend Setup
